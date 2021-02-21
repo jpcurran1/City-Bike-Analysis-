@@ -1,4 +1,5 @@
 # City-Bike-Analysis
+Link to twbx here: https://public.tableau.com/profile/john3275#!/vizhome/JC_CityBikeAnalysis/Story1?publish=yes
 For this homework I used a CSV file from the City Bike website with data from the month of Febuary. I leveraged Tableau public to import the data to create visuals and dashboards to display different phenomena. I personally thought it would interesting to leverage the data to learn about the indivudals who use City bikes--are they male, female, or unknown? How old are they? Are they members of city bike? How far are they riding based on age or gender? I tried to look at it from the persepctive of someone who works at city bike. If you knew more about who is riding your bikes and how they use them, you might be able to target your marketing efforts. For example if you knew you had many female riders who were not members, you could try marketing towards that group. Or if you knew you were not popular among 30 year olds, you could target your marketing effrots toward that group. 
 
 Based on the data analysis I conducted, I had the following insights: 
