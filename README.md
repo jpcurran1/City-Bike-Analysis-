@@ -4,6 +4,9 @@ For this homework I used a CSV file from the City Bike website with data from th
 
 Based on the data analysis I conducted, I had the following insights: 
 
+# Data 
+The data used was for Febuary 2021. All metics and dashboards are only showing Febuary 2021 data. 
+
 # Gender Analysis
 The Gender dashboard shows several metrics related to gender usage of citi bikes during the month of Feburary in 2021. It shows that the vast majority of rides are male which might be an indication citi bike needs to somehow appeal to more female riders. Based on these figures I would recomend doing market reserach to find out why so few females use citi bike to males and then based on those findings see if there could be targeted marketing or changes made to appeal more to females. 
 # Age Analysis
